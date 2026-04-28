@@ -1,0 +1,31 @@
+footer {
+    width: 100%;
+    background-color: var(--color-primary-2);
+
+}
+
+footer img {
+    width: 100%;       /* Obriga a imagem a ter a largura do footer */
+      /* Mantém a proporção (ou defina uma altura fixa se preferir) */
+}
+
+#footer_items {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 8% 24px 8%;
+    align-items: center;
+}
+
+#copyright {
+    color: #232323;
+    font-weight: 500;
+
+}
+
+@media screen and (max-width: 600px) {
+ 
+    #footer_items {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
