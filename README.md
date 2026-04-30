@@ -1,7 +1,9 @@
 #### [PORTUGUESE/ ENGLISH]
 # Estudo de Front-end: Landing Page de um restaurante. 🍜
 
-Uma landing page responsiva para diferentes resoluções, com tema de restaurante, construída com HTML, CSS, JavaScript e jQuery. O projeto visa utilizar um design limpo e com animações sutis.
+<img width="1856" height="920" alt="LP-PNG" src="https://github.com/user-attachments/assets/513192fa-d11d-4bfa-9027-52d27760bf5a" />
+
+<br> Uma landing page responsiva para diferentes resoluções, com tema de restaurante, construída com HTML, CSS, JavaScript e jQuery. O projeto visa utilizar um design limpo e com animações sutis.
 
 ## Visualize o projeto 💻
 
