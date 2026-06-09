@@ -1,5 +1,5 @@
 #### [PORTUGUESE/ ENGLISH]
-# Estudo de Front-end: Landing Page de um restaurante. 🍜
+# Desenvolvimento Front-end: Landing Page de um restaurante. 🍜
 
 <img width="1856" height="920" alt="LP-PNG" src="https://github.com/user-attachments/assets/513192fa-d11d-4bfa-9027-52d27760bf5a" />
 
