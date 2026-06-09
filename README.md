@@ -29,7 +29,7 @@ Visualize o projeto [AQUI!](https://allespin.github.io/front-end-restaurant-land
 <br>
 <br>
 
-# Front-end Study: Restaurant Landing Page 🍜
+# Front-end Development: Restaurant Landing Page 🍜
 
 A responsive restaurant-themed landing page built with HTML, CSS, JavaScript, and jQuery. The project focuses on a clean design with subtle animations.
 
