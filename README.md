@@ -3,7 +3,7 @@
 
 <img width="1856" height="920" alt="LP-PNG" src="https://github.com/user-attachments/assets/513192fa-d11d-4bfa-9027-52d27760bf5a" />
 
-<br> Landing page responsiva desenvolvida para um restaurante fictício, utilizando HTML, CSS, JavaScript e jQuery..
+<br> Landing page responsiva desenvolvida para um restaurante fictício, utilizando HTML, CSS, JavaScript e jQuery.
 
 A aplicação apresenta uma interface moderna e intuitiva, com animações sutis e adaptação para diferentes resoluções de tela. O projeto foi construído com foco em experiência do usuário, responsividade e boas práticas de desenvolvimento front-end.
 
