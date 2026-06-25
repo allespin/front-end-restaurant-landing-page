@@ -12,7 +12,7 @@ Entre os principais recursos estão a navegação fluida entre seções, element
 
 ## Visualize o projeto 💻
 
-Visualize o projeto [AQUI!](https://allespin.github.io/front-end-restaurant-landing-page/)
+Visualize o projeto [AQUI!](https://allespin.github.io/restaurant-landing-page/)
 
 ## Ferramentas utilizadas ⚙️
 
@@ -40,7 +40,7 @@ A responsive restaurant-themed landing page built with HTML, CSS, JavaScript, an
 
 ## Check out the project 💻
 
-Check it out [HERE!](https://allespin.github.io/front-end-restaurant-landing-page/)
+Check it out [HERE!](https://allespin.github.io/restaurant-landing-page/)
 
 ## Tools used ⚙️
 
